@@ -115,3 +115,7 @@ The frequencies of notes in the C4 major pentatonic scale in descending order\
 329.6276\
 293.6648\
 261.6256
+
+In the notes above:\
+Bf3 denotes the B3 flat note\
+DS4 denotes the D4 sharp note
